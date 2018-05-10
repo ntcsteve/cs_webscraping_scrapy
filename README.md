@@ -10,13 +10,13 @@
 ##### - Step 4 : quotes_super_xpath.py - level 3 - multiple quotes on multiple pages 
 
 #### Part 2 : Advanced Spider 
-##### - Step 6 : books_all.py - level 4 - multiple books on the first page
-##### - Step 7 : books_super_all.py - level 5 - multiple books on multiple pages
+##### - Step 5 : books_all.py - level 4 - multiple books on the first page
+##### - Step 6 : books_super_all.py - level 5 - multiple books on multiple pages
 
 #### Part 3 : More Examples (it will consume more time and resources)
-##### - Step 8 : pokemon.py - level 6 - extract data about pokemon capture location
-##### - Step 8 : romance.py - level 6 - extract data about romance books and prices
-##### - Step 8 : recipes.py - level 6 - extract data about food recipes
+##### - Step 7 : pokemon.py - level 6 - extract data about pokemon capture location
+##### - Step 7 : romance.py - level 6 - extract data about romance books and prices
+##### - Step 7 : recipes.py - level 6 - extract data about food recipes
 
 #### Note
 ##### - These codes are used purely for educational purposes, not tested for production and shouldn't be used for commercial reasons
